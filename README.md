@@ -4,7 +4,7 @@ This is my first game developed on Unreal Engine 4. It is tactical first-person 
 Before you start playing it, I RECOMMEND you to see the game settings / keyboard and mouse. 
 
 ## Run game:
-All you have to do is to download this repository and open FPSProject.exe .
+All you have to do is to download google drive project and open FPSProject.exe .
 
 ## Using Engine
 -Unreal Engine 4.
